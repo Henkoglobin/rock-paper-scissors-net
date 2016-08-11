@@ -52,6 +52,9 @@
   <ItemGroup>
     <Compile Include="GameRuleTests.cs" />
     <Compile Include="Mocks\PlayerChoiceMocks.cs" />
+    <Compile Include="Mocks\RandomMocks.cs" />
+    <Compile Include="PlayerTests\PlayerATests.cs" />
+    <Compile Include="PlayerTests\PlayerBTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -47,6 +47,8 @@
     <Compile Include="GamePlay\IPlayer.cs" />
     <Compile Include="GameRules\IRules.cs" />
     <Compile Include="GameRules\Rules.cs" />
+    <Compile Include="Players\PlayerA.cs" />
+    <Compile Include="Players\PlayerB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
