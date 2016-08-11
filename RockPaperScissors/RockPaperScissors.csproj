@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameRules\IPlayerChoice.cs" />
+    <Compile Include="GameRules\PlayerChoice.cs" />
+    <Compile Include="GamePlay\IPlayer.cs" />
+    <Compile Include="GameRules\IRules.cs" />
+    <Compile Include="GameRules\Rules.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
